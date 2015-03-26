@@ -3,9 +3,10 @@ h1,h2,h3,h4,h5,h6,div,p,span,pre,li,td,b {
         font-family: 'Nanum Gothic', serif;
 }
 
-
+/* remove header*/
 #header-precursor,
-
+#main-header,
+.page-metadata
 {
 display:none !important;
 }
