@@ -1,6 +1,11 @@
-@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+/* @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 h1,h2,h3,h4,h5,h6,div,p,span,pre,li,td,b {
         font-family: 'Nanum Gothic', serif;
+}*/
+
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
+h1,h2,h3,h4,h5,h6,div,p,span,pre,li,td,b {
+        font-family: 'Noto Sans', sans-serif;
 }
 
 /* remove header*/
